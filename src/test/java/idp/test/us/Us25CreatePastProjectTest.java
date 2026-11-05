@@ -60,6 +60,22 @@ public class Us25CreatePastProjectTest extends IdpTestCase {
     }
 
     @Test
+    public void testCreatePastProjectRejectsFutureCompletionDate() {
+        signIn(designer());
+        idCreatePastProjectPg page = new idCreatePastProjectPg();
+        page.setTitle("Unfinished Kitchen");
+        page.setDescription("A project that has not finished yet");
+        page.setStyle("Classic");
+        page.setBudget("18000");
+        page.setCategoryID(String.valueOf(category("Kitchen").getCategoryID()));
+        page.setCompletionDate("2030-01-01");
+        CreateProjectResult result = page.create();
+        assertFalse(result.success());
+        assertEquals(Messages.CHECK_DETAILS, result.message());
+        assertEquals(0, Database.get().projects().size());
+    }
+
+    @Test
     public void testCreatePastProjectFailsWhenCategoryIsMissing() {
         signIn(designer());
         idCreatePastProjectPg page = new idCreatePastProjectPg();
