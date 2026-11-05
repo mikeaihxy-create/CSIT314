@@ -110,3 +110,62 @@ jobs:
             **/testrunner.log
             **/boundary-demo.log
           if-no-files-found: warn
+
+  package:
+    name: Package the application
+    needs: build-and-test
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - name: Compile the production sources
+        run: |
+          root=""
+          if [ -d "src/main/java" ]; then
+            root="."
+          else
+            java_dir=$(find . -maxdepth 4 -type d -path '*/src/main/java' | head -n 1)
+            if [ -n "$java_dir" ]; then
+              root="${java_dir%/src/main/java}"
+              root="${root#./}"
+            fi
+          fi
+          if [ -z "$root" ]; then
+            echo "::error::No Java project (src/main/java) found in the repository."
+            exit 1
+          fi
+          cd "$root"
+          mkdir -p build/classes
+          find src/main/java -name '*.java' -print0 \
+            | xargs -0 javac -encoding UTF-8 -nowarn -d build/classes
+          echo "Production classes compiled."
+
+      - name: Package the compiled classes as a jar
+        run: |
+          root="."
+          if [ ! -d "build/classes" ]; then
+            root=$(find . -maxdepth 4 -type d -path '*/build/classes' | head -n 1)
+            root="${root%/build/classes}"
+          fi
+          cd "$root"
+          jar --create --file idp.jar -C build/classes .
+          ls -l idp.jar
+          echo "Jar packaged: idp.jar"
+
+      - name: Upload the application jar
+        uses: actions/upload-artifact@v4
+        with:
+          name: idp-application
+          path: '**/idp.jar'
+          retention-days: 30
+          if-no-files-found: error
