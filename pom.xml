@@ -2,9 +2,9 @@
 <!--
     Optional Maven build for the Interior Design Platform.
 
-    The project is built in this repository with plain javac (see README.md), because the
-    assignment only requires the code to compile and the tests to run. This file is provided so
-    that the same sources also work in an IDE or in a CI pipeline with a single command:
+    The project is built in this repository with plain javac (see .github/workflows/ci.yml),
+    because the assignment only requires the code to compile and the tests to run. This file is
+    provided so that the same sources also work in an IDE with a single command:
 
         mvn test
 -->

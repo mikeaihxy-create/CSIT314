@@ -29,12 +29,15 @@ jobs:
       - name: Locate the project root
         run: |
           root=""
-          for candidate in "." "java code" "IDP"; do
-            if [ -d "$candidate/src/main/java" ]; then
-              root="$candidate"
-              break
+          if [ -d "src/main/java" ]; then
+            root="."
+          else
+            java_dir=$(find . -maxdepth 4 -type d -path '*/src/main/java' | head -n 1)
+            if [ -n "$java_dir" ]; then
+              root="${java_dir%/src/main/java}"
+              root="${root#./}"
             fi
-          done
+          fi
           if [ -z "$root" ]; then
             echo "::error::No Java project (src/main/java) found in the repository."
             exit 1
