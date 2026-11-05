@@ -1,0 +1,301 @@
+project_id,owner_account_id,category_id,title,description,style,budget,stage,completion_date,view_count,shortlist_count,created_at,updated_at
+1,101,1,Modern Renovation Project 001,Full renovation of a 3-room flat in Singapore,Modern,15000.00,PAST,2024-01-01,0,0,2025-01-01 08:30:00,2025-07-01 09:00:00
+2,102,2,Minimalist Renovation Project 002,Full renovation of a 4-room flat in Jurong,Minimalist,15137.00,CURRENT,,13,7,2025-01-02 08:30:00,2025-07-02 09:00:00
+3,103,3,Scandinavian Renovation Project 003,Full renovation of a 5-room flat in Tampines,Scandinavian,15274.00,CURRENT,,26,14,2025-01-03 08:30:00,2025-07-03 09:00:00
+4,104,4,Industrial Renovation Project 004,Full renovation of a 3-room flat in Woodlands,Industrial,15411.00,PAST,2024-04-04,39,21,2025-01-04 08:30:00,2025-07-04 09:00:00
+5,105,5,Japanese Renovation Project 005,Full renovation of a 4-room flat in Bedok,Japanese,15548.00,CURRENT,,52,28,2025-01-05 08:30:00,2025-07-05 09:00:00
+6,106,6,Contemporary Renovation Project 006,Full renovation of a 5-room flat in Punggol,Contemporary,15685.00,CURRENT,,65,35,2025-01-06 08:30:00,2025-07-06 09:00:00
+7,107,7,Classic Renovation Project 007,Full renovation of a 3-room flat in Sengkang,Classic,15822.00,PAST,2024-07-07,78,42,2025-01-07 08:30:00,2025-07-07 09:00:00
+8,108,8,Bohemian Renovation Project 008,Full renovation of a 4-room flat in Yishun,Bohemian,15959.00,CURRENT,,91,49,2025-01-08 08:30:00,2025-07-08 09:00:00
+9,109,9,Rustic Renovation Project 009,Full renovation of a 5-room flat in Singapore,Rustic,16096.00,CURRENT,,104,56,2025-01-09 08:30:00,2025-07-09 09:00:00
+10,110,10,Art Deco Renovation Project 010,Full renovation of a 3-room flat in Jurong,Art Deco,16233.00,PAST,2024-10-10,117,3,2025-01-10 08:30:00,2025-07-10 09:00:00
+11,111,11,Modern Renovation Project 011,Full renovation of a 4-room flat in Tampines,Modern,16370.00,CURRENT,,130,10,2025-01-11 08:30:00,2025-07-11 09:00:00
+12,112,12,Minimalist Renovation Project 012,Full renovation of a 5-room flat in Woodlands,Minimalist,16507.00,CURRENT,,143,17,2025-01-12 08:30:00,2025-07-12 09:00:00
+13,113,13,Scandinavian Renovation Project 013,Full renovation of a 3-room flat in Bedok,Scandinavian,16644.00,PAST,2024-01-13,156,24,2025-01-13 08:30:00,2025-07-13 09:00:00
+14,114,14,Industrial Renovation Project 014,Full renovation of a 4-room flat in Punggol,Industrial,16781.00,CURRENT,,169,31,2025-01-14 08:30:00,2025-07-14 09:00:00
+15,115,15,Japanese Renovation Project 015,Full renovation of a 5-room flat in Sengkang,Japanese,16918.00,CURRENT,,182,38,2025-01-15 08:30:00,2025-07-15 09:00:00
+16,116,16,Contemporary Renovation Project 016,Full renovation of a 3-room flat in Yishun,Contemporary,17055.00,PAST,2024-04-16,195,45,2025-01-16 08:30:00,2025-07-16 09:00:00
+17,117,17,Classic Renovation Project 017,Full renovation of a 4-room flat in Singapore,Classic,17192.00,CURRENT,,208,52,2025-01-17 08:30:00,2025-07-17 09:00:00
+18,118,18,Bohemian Renovation Project 018,Full renovation of a 5-room flat in Jurong,Bohemian,17329.00,CURRENT,,221,59,2025-01-18 08:30:00,2025-07-18 09:00:00
+19,119,19,Rustic Renovation Project 019,Full renovation of a 3-room flat in Tampines,Rustic,17466.00,PAST,2024-07-19,234,6,2025-01-19 08:30:00,2025-07-19 09:00:00
+20,120,20,Art Deco Renovation Project 020,Full renovation of a 4-room flat in Woodlands,Art Deco,17603.00,CURRENT,,247,13,2025-01-20 08:30:00,2025-07-20 09:00:00
+21,121,21,Modern Renovation Project 021,Full renovation of a 5-room flat in Bedok,Modern,17740.00,CURRENT,,260,20,2025-01-21 08:30:00,2025-07-21 09:00:00
+22,122,22,Minimalist Renovation Project 022,Full renovation of a 3-room flat in Punggol,Minimalist,17877.00,PAST,2024-10-22,273,27,2025-01-22 08:30:00,2025-07-22 09:00:00
+23,123,23,Scandinavian Renovation Project 023,Full renovation of a 4-room flat in Sengkang,Scandinavian,18014.00,CURRENT,,286,34,2025-01-23 08:30:00,2025-07-23 09:00:00
+24,124,24,Industrial Renovation Project 024,Full renovation of a 5-room flat in Yishun,Industrial,18151.00,CURRENT,,299,41,2025-01-24 08:30:00,2025-07-24 09:00:00
+25,125,25,Japanese Renovation Project 025,Full renovation of a 3-room flat in Singapore,Japanese,18288.00,PAST,2024-01-25,312,48,2025-01-25 08:30:00,2025-07-25 09:00:00
+26,126,26,Contemporary Renovation Project 026,Full renovation of a 4-room flat in Jurong,Contemporary,18425.00,CURRENT,,325,55,2025-01-26 08:30:00,2025-07-26 09:00:00
+27,127,27,Classic Renovation Project 027,Full renovation of a 5-room flat in Tampines,Classic,18562.00,CURRENT,,338,2,2025-01-27 08:30:00,2025-07-27 09:00:00
+28,128,28,Bohemian Renovation Project 028,Full renovation of a 3-room flat in Woodlands,Bohemian,18699.00,PAST,2024-04-28,351,9,2025-01-28 08:30:00,2025-07-28 09:00:00
+29,129,29,Rustic Renovation Project 029,Full renovation of a 4-room flat in Bedok,Rustic,18836.00,CURRENT,,364,16,2025-01-01 08:30:00,2025-07-01 09:00:00
+30,130,30,Art Deco Renovation Project 030,Full renovation of a 5-room flat in Punggol,Art Deco,18973.00,CURRENT,,377,23,2025-01-02 08:30:00,2025-07-02 09:00:00
+31,131,31,Modern Renovation Project 031,Full renovation of a 3-room flat in Sengkang,Modern,19110.00,PAST,2024-07-03,390,30,2025-01-03 08:30:00,2025-07-03 09:00:00
+32,132,32,Minimalist Renovation Project 032,Full renovation of a 4-room flat in Yishun,Minimalist,19247.00,CURRENT,,3,37,2025-01-04 08:30:00,2025-07-04 09:00:00
+33,133,33,Scandinavian Renovation Project 033,Full renovation of a 5-room flat in Singapore,Scandinavian,19384.00,CURRENT,,16,44,2025-01-05 08:30:00,2025-07-05 09:00:00
+34,134,34,Industrial Renovation Project 034,Full renovation of a 3-room flat in Jurong,Industrial,19521.00,PAST,2024-10-06,29,51,2025-01-06 08:30:00,2025-07-06 09:00:00
+35,135,35,Japanese Renovation Project 035,Full renovation of a 4-room flat in Tampines,Japanese,19658.00,CURRENT,,42,58,2025-01-07 08:30:00,2025-07-07 09:00:00
+36,136,36,Contemporary Renovation Project 036,Full renovation of a 5-room flat in Woodlands,Contemporary,19795.00,CURRENT,,55,5,2025-01-08 08:30:00,2025-07-08 09:00:00
+37,137,37,Classic Renovation Project 037,Full renovation of a 3-room flat in Bedok,Classic,19932.00,PAST,2024-01-09,68,12,2025-01-09 08:30:00,2025-07-09 09:00:00
+38,138,38,Bohemian Renovation Project 038,Full renovation of a 4-room flat in Punggol,Bohemian,20069.00,CURRENT,,81,19,2025-01-10 08:30:00,2025-07-10 09:00:00
+39,139,39,Rustic Renovation Project 039,Full renovation of a 5-room flat in Sengkang,Rustic,20206.00,CURRENT,,94,26,2025-01-11 08:30:00,2025-07-11 09:00:00
+40,140,40,Art Deco Renovation Project 040,Full renovation of a 3-room flat in Yishun,Art Deco,20343.00,PAST,2024-04-12,107,33,2025-01-12 08:30:00,2025-07-12 09:00:00
+41,141,41,Modern Renovation Project 041,Full renovation of a 4-room flat in Singapore,Modern,20480.00,CURRENT,,120,40,2025-01-13 08:30:00,2025-07-13 09:00:00
+42,142,42,Minimalist Renovation Project 042,Full renovation of a 5-room flat in Jurong,Minimalist,20617.00,CURRENT,,133,47,2025-01-14 08:30:00,2025-07-14 09:00:00
+43,143,43,Scandinavian Renovation Project 043,Full renovation of a 3-room flat in Tampines,Scandinavian,20754.00,PAST,2024-07-15,146,54,2025-01-15 08:30:00,2025-07-15 09:00:00
+44,144,44,Industrial Renovation Project 044,Full renovation of a 4-room flat in Woodlands,Industrial,20891.00,CURRENT,,159,1,2025-01-16 08:30:00,2025-07-16 09:00:00
+45,145,45,Japanese Renovation Project 045,Full renovation of a 5-room flat in Bedok,Japanese,21028.00,CURRENT,,172,8,2025-01-17 08:30:00,2025-07-17 09:00:00
+46,146,46,Contemporary Renovation Project 046,Full renovation of a 3-room flat in Punggol,Contemporary,21165.00,PAST,2024-10-18,185,15,2025-01-18 08:30:00,2025-07-18 09:00:00
+47,147,47,Classic Renovation Project 047,Full renovation of a 4-room flat in Sengkang,Classic,21302.00,CURRENT,,198,22,2025-01-19 08:30:00,2025-07-19 09:00:00
+48,148,48,Bohemian Renovation Project 048,Full renovation of a 5-room flat in Yishun,Bohemian,21439.00,CURRENT,,211,29,2025-01-20 08:30:00,2025-07-20 09:00:00
+49,149,49,Rustic Renovation Project 049,Full renovation of a 3-room flat in Singapore,Rustic,21576.00,PAST,2024-01-21,224,36,2025-01-21 08:30:00,2025-07-21 09:00:00
+50,150,50,Art Deco Renovation Project 050,Full renovation of a 4-room flat in Jurong,Art Deco,21713.00,CURRENT,,237,43,2025-01-22 08:30:00,2025-07-22 09:00:00
+51,151,51,Modern Renovation Project 051,Full renovation of a 5-room flat in Tampines,Modern,21850.00,CURRENT,,250,50,2025-01-23 08:30:00,2025-07-23 09:00:00
+52,152,52,Minimalist Renovation Project 052,Full renovation of a 3-room flat in Woodlands,Minimalist,21987.00,PAST,2024-04-24,263,57,2025-01-24 08:30:00,2025-07-24 09:00:00
+53,153,53,Scandinavian Renovation Project 053,Full renovation of a 4-room flat in Bedok,Scandinavian,22124.00,CURRENT,,276,4,2025-01-25 08:30:00,2025-07-25 09:00:00
+54,154,54,Industrial Renovation Project 054,Full renovation of a 5-room flat in Punggol,Industrial,22261.00,CURRENT,,289,11,2025-01-26 08:30:00,2025-07-26 09:00:00
+55,155,55,Japanese Renovation Project 055,Full renovation of a 3-room flat in Sengkang,Japanese,22398.00,PAST,2024-07-27,302,18,2025-01-27 08:30:00,2025-07-27 09:00:00
+56,156,56,Contemporary Renovation Project 056,Full renovation of a 4-room flat in Yishun,Contemporary,22535.00,CURRENT,,315,25,2025-01-28 08:30:00,2025-07-28 09:00:00
+57,157,57,Classic Renovation Project 057,Full renovation of a 5-room flat in Singapore,Classic,22672.00,CURRENT,,328,32,2025-01-01 08:30:00,2025-07-01 09:00:00
+58,158,58,Bohemian Renovation Project 058,Full renovation of a 3-room flat in Jurong,Bohemian,22809.00,PAST,2024-10-02,341,39,2025-01-02 08:30:00,2025-07-02 09:00:00
+59,159,59,Rustic Renovation Project 059,Full renovation of a 4-room flat in Tampines,Rustic,22946.00,CURRENT,,354,46,2025-01-03 08:30:00,2025-07-03 09:00:00
+60,160,60,Art Deco Renovation Project 060,Full renovation of a 5-room flat in Woodlands,Art Deco,23083.00,CURRENT,,367,53,2025-01-04 08:30:00,2025-07-04 09:00:00
+61,161,61,Modern Renovation Project 061,Full renovation of a 3-room flat in Bedok,Modern,23220.00,PAST,2024-01-05,380,0,2025-01-05 08:30:00,2025-07-05 09:00:00
+62,162,62,Minimalist Renovation Project 062,Full renovation of a 4-room flat in Punggol,Minimalist,23357.00,CURRENT,,393,7,2025-01-06 08:30:00,2025-07-06 09:00:00
+63,163,63,Scandinavian Renovation Project 063,Full renovation of a 5-room flat in Sengkang,Scandinavian,23494.00,CURRENT,,6,14,2025-01-07 08:30:00,2025-07-07 09:00:00
+64,164,64,Industrial Renovation Project 064,Full renovation of a 3-room flat in Yishun,Industrial,23631.00,PAST,2024-04-08,19,21,2025-01-08 08:30:00,2025-07-08 09:00:00
+65,165,65,Japanese Renovation Project 065,Full renovation of a 4-room flat in Singapore,Japanese,23768.00,CURRENT,,32,28,2025-01-09 08:30:00,2025-07-09 09:00:00
+66,166,66,Contemporary Renovation Project 066,Full renovation of a 5-room flat in Jurong,Contemporary,23905.00,CURRENT,,45,35,2025-01-10 08:30:00,2025-07-10 09:00:00
+67,167,67,Classic Renovation Project 067,Full renovation of a 3-room flat in Tampines,Classic,24042.00,PAST,2024-07-11,58,42,2025-01-11 08:30:00,2025-07-11 09:00:00
+68,168,68,Bohemian Renovation Project 068,Full renovation of a 4-room flat in Woodlands,Bohemian,24179.00,CURRENT,,71,49,2025-01-12 08:30:00,2025-07-12 09:00:00
+69,169,69,Rustic Renovation Project 069,Full renovation of a 5-room flat in Bedok,Rustic,24316.00,CURRENT,,84,56,2025-01-13 08:30:00,2025-07-13 09:00:00
+70,170,70,Art Deco Renovation Project 070,Full renovation of a 3-room flat in Punggol,Art Deco,24453.00,PAST,2024-10-14,97,3,2025-01-14 08:30:00,2025-07-14 09:00:00
+71,171,71,Modern Renovation Project 071,Full renovation of a 4-room flat in Sengkang,Modern,24590.00,CURRENT,,110,10,2025-01-15 08:30:00,2025-07-15 09:00:00
+72,172,72,Minimalist Renovation Project 072,Full renovation of a 5-room flat in Yishun,Minimalist,24727.00,CURRENT,,123,17,2025-01-16 08:30:00,2025-07-16 09:00:00
+73,173,73,Scandinavian Renovation Project 073,Full renovation of a 3-room flat in Singapore,Scandinavian,24864.00,PAST,2024-01-17,136,24,2025-01-17 08:30:00,2025-07-17 09:00:00
+74,174,74,Industrial Renovation Project 074,Full renovation of a 4-room flat in Jurong,Industrial,25001.00,CURRENT,,149,31,2025-01-18 08:30:00,2025-07-18 09:00:00
+75,175,75,Japanese Renovation Project 075,Full renovation of a 5-room flat in Tampines,Japanese,25138.00,CURRENT,,162,38,2025-01-19 08:30:00,2025-07-19 09:00:00
+76,176,76,Contemporary Renovation Project 076,Full renovation of a 3-room flat in Woodlands,Contemporary,25275.00,PAST,2024-04-20,175,45,2025-01-20 08:30:00,2025-07-20 09:00:00
+77,177,77,Classic Renovation Project 077,Full renovation of a 4-room flat in Bedok,Classic,25412.00,CURRENT,,188,52,2025-01-21 08:30:00,2025-07-21 09:00:00
+78,178,78,Bohemian Renovation Project 078,Full renovation of a 5-room flat in Punggol,Bohemian,25549.00,CURRENT,,201,59,2025-01-22 08:30:00,2025-07-22 09:00:00
+79,179,79,Rustic Renovation Project 079,Full renovation of a 3-room flat in Sengkang,Rustic,25686.00,PAST,2024-07-23,214,6,2025-01-23 08:30:00,2025-07-23 09:00:00
+80,180,80,Art Deco Renovation Project 080,Full renovation of a 4-room flat in Yishun,Art Deco,25823.00,CURRENT,,227,13,2025-01-24 08:30:00,2025-07-24 09:00:00
+81,181,81,Modern Renovation Project 081,Full renovation of a 5-room flat in Singapore,Modern,25960.00,CURRENT,,240,20,2025-01-25 08:30:00,2025-07-25 09:00:00
+82,182,82,Minimalist Renovation Project 082,Full renovation of a 3-room flat in Jurong,Minimalist,26097.00,PAST,2024-10-26,253,27,2025-01-26 08:30:00,2025-07-26 09:00:00
+83,183,83,Scandinavian Renovation Project 083,Full renovation of a 4-room flat in Tampines,Scandinavian,26234.00,CURRENT,,266,34,2025-01-27 08:30:00,2025-07-27 09:00:00
+84,184,84,Industrial Renovation Project 084,Full renovation of a 5-room flat in Woodlands,Industrial,26371.00,CURRENT,,279,41,2025-01-28 08:30:00,2025-07-28 09:00:00
+85,185,85,Japanese Renovation Project 085,Full renovation of a 3-room flat in Bedok,Japanese,26508.00,PAST,2024-01-01,292,48,2025-01-01 08:30:00,2025-07-01 09:00:00
+86,186,86,Contemporary Renovation Project 086,Full renovation of a 4-room flat in Punggol,Contemporary,26645.00,CURRENT,,305,55,2025-01-02 08:30:00,2025-07-02 09:00:00
+87,187,87,Classic Renovation Project 087,Full renovation of a 5-room flat in Sengkang,Classic,26782.00,CURRENT,,318,2,2025-01-03 08:30:00,2025-07-03 09:00:00
+88,188,88,Bohemian Renovation Project 088,Full renovation of a 3-room flat in Yishun,Bohemian,26919.00,PAST,2024-04-04,331,9,2025-01-04 08:30:00,2025-07-04 09:00:00
+89,189,89,Rustic Renovation Project 089,Full renovation of a 4-room flat in Singapore,Rustic,27056.00,CURRENT,,344,16,2025-01-05 08:30:00,2025-07-05 09:00:00
+90,190,90,Art Deco Renovation Project 090,Full renovation of a 5-room flat in Jurong,Art Deco,27193.00,CURRENT,,357,23,2025-01-06 08:30:00,2025-07-06 09:00:00
+91,191,91,Modern Renovation Project 091,Full renovation of a 3-room flat in Tampines,Modern,27330.00,PAST,2024-07-07,370,30,2025-01-07 08:30:00,2025-07-07 09:00:00
+92,192,92,Minimalist Renovation Project 092,Full renovation of a 4-room flat in Woodlands,Minimalist,27467.00,CURRENT,,383,37,2025-01-08 08:30:00,2025-07-08 09:00:00
+93,193,93,Scandinavian Renovation Project 093,Full renovation of a 5-room flat in Bedok,Scandinavian,27604.00,CURRENT,,396,44,2025-01-09 08:30:00,2025-07-09 09:00:00
+94,194,94,Industrial Renovation Project 094,Full renovation of a 3-room flat in Punggol,Industrial,27741.00,PAST,2024-10-10,9,51,2025-01-10 08:30:00,2025-07-10 09:00:00
+95,195,95,Japanese Renovation Project 095,Full renovation of a 4-room flat in Sengkang,Japanese,27878.00,CURRENT,,22,58,2025-01-11 08:30:00,2025-07-11 09:00:00
+96,196,96,Contemporary Renovation Project 096,Full renovation of a 5-room flat in Yishun,Contemporary,28015.00,CURRENT,,35,5,2025-01-12 08:30:00,2025-07-12 09:00:00
+97,197,97,Classic Renovation Project 097,Full renovation of a 3-room flat in Singapore,Classic,28152.00,PAST,2024-01-13,48,12,2025-01-13 08:30:00,2025-07-13 09:00:00
+98,198,98,Bohemian Renovation Project 098,Full renovation of a 4-room flat in Jurong,Bohemian,28289.00,CURRENT,,61,19,2025-01-14 08:30:00,2025-07-14 09:00:00
+99,199,99,Rustic Renovation Project 099,Full renovation of a 5-room flat in Tampines,Rustic,28426.00,CURRENT,,74,26,2025-01-15 08:30:00,2025-07-15 09:00:00
+100,200,100,Art Deco Renovation Project 100,Full renovation of a 3-room flat in Woodlands,Art Deco,28563.00,PAST,2024-04-16,87,33,2025-01-16 08:30:00,2025-07-16 09:00:00
+101,101,1,Modern Renovation Project 101,Full renovation of a 4-room flat in Bedok,Modern,28700.00,CURRENT,,100,40,2025-01-17 08:30:00,2025-07-17 09:00:00
+102,102,2,Minimalist Renovation Project 102,Full renovation of a 5-room flat in Punggol,Minimalist,28837.00,CURRENT,,113,47,2025-01-18 08:30:00,2025-07-18 09:00:00
+103,103,3,Scandinavian Renovation Project 103,Full renovation of a 3-room flat in Sengkang,Scandinavian,28974.00,PAST,2024-07-19,126,54,2025-01-19 08:30:00,2025-07-19 09:00:00
+104,104,4,Industrial Renovation Project 104,Full renovation of a 4-room flat in Yishun,Industrial,29111.00,CURRENT,,139,1,2025-01-20 08:30:00,2025-07-20 09:00:00
+105,105,5,Japanese Renovation Project 105,Full renovation of a 5-room flat in Singapore,Japanese,29248.00,CURRENT,,152,8,2025-01-21 08:30:00,2025-07-21 09:00:00
+106,106,6,Contemporary Renovation Project 106,Full renovation of a 3-room flat in Jurong,Contemporary,29385.00,PAST,2024-10-22,165,15,2025-01-22 08:30:00,2025-07-22 09:00:00
+107,107,7,Classic Renovation Project 107,Full renovation of a 4-room flat in Tampines,Classic,29522.00,CURRENT,,178,22,2025-01-23 08:30:00,2025-07-23 09:00:00
+108,108,8,Bohemian Renovation Project 108,Full renovation of a 5-room flat in Woodlands,Bohemian,29659.00,CURRENT,,191,29,2025-01-24 08:30:00,2025-07-24 09:00:00
+109,109,9,Rustic Renovation Project 109,Full renovation of a 3-room flat in Bedok,Rustic,29796.00,PAST,2024-01-25,204,36,2025-01-25 08:30:00,2025-07-25 09:00:00
+110,110,10,Art Deco Renovation Project 110,Full renovation of a 4-room flat in Punggol,Art Deco,29933.00,CURRENT,,217,43,2025-01-26 08:30:00,2025-07-26 09:00:00
+111,111,11,Modern Renovation Project 111,Full renovation of a 5-room flat in Sengkang,Modern,30070.00,CURRENT,,230,50,2025-01-27 08:30:00,2025-07-27 09:00:00
+112,112,12,Minimalist Renovation Project 112,Full renovation of a 3-room flat in Yishun,Minimalist,30207.00,PAST,2024-04-28,243,57,2025-01-28 08:30:00,2025-07-28 09:00:00
+113,113,13,Scandinavian Renovation Project 113,Full renovation of a 4-room flat in Singapore,Scandinavian,30344.00,CURRENT,,256,4,2025-01-01 08:30:00,2025-07-01 09:00:00
+114,114,14,Industrial Renovation Project 114,Full renovation of a 5-room flat in Jurong,Industrial,30481.00,CURRENT,,269,11,2025-01-02 08:30:00,2025-07-02 09:00:00
+115,115,15,Japanese Renovation Project 115,Full renovation of a 3-room flat in Tampines,Japanese,30618.00,PAST,2024-07-03,282,18,2025-01-03 08:30:00,2025-07-03 09:00:00
+116,116,16,Contemporary Renovation Project 116,Full renovation of a 4-room flat in Woodlands,Contemporary,30755.00,CURRENT,,295,25,2025-01-04 08:30:00,2025-07-04 09:00:00
+117,117,17,Classic Renovation Project 117,Full renovation of a 5-room flat in Bedok,Classic,30892.00,CURRENT,,308,32,2025-01-05 08:30:00,2025-07-05 09:00:00
+118,118,18,Bohemian Renovation Project 118,Full renovation of a 3-room flat in Punggol,Bohemian,31029.00,PAST,2024-10-06,321,39,2025-01-06 08:30:00,2025-07-06 09:00:00
+119,119,19,Rustic Renovation Project 119,Full renovation of a 4-room flat in Sengkang,Rustic,31166.00,CURRENT,,334,46,2025-01-07 08:30:00,2025-07-07 09:00:00
+120,120,20,Art Deco Renovation Project 120,Full renovation of a 5-room flat in Yishun,Art Deco,31303.00,CURRENT,,347,53,2025-01-08 08:30:00,2025-07-08 09:00:00
+121,121,21,Modern Renovation Project 121,Full renovation of a 3-room flat in Singapore,Modern,31440.00,PAST,2024-01-09,360,0,2025-01-09 08:30:00,2025-07-09 09:00:00
+122,122,22,Minimalist Renovation Project 122,Full renovation of a 4-room flat in Jurong,Minimalist,31577.00,CURRENT,,373,7,2025-01-10 08:30:00,2025-07-10 09:00:00
+123,123,23,Scandinavian Renovation Project 123,Full renovation of a 5-room flat in Tampines,Scandinavian,31714.00,CURRENT,,386,14,2025-01-11 08:30:00,2025-07-11 09:00:00
+124,124,24,Industrial Renovation Project 124,Full renovation of a 3-room flat in Woodlands,Industrial,31851.00,PAST,2024-04-12,399,21,2025-01-12 08:30:00,2025-07-12 09:00:00
+125,125,25,Japanese Renovation Project 125,Full renovation of a 4-room flat in Bedok,Japanese,31988.00,CURRENT,,12,28,2025-01-13 08:30:00,2025-07-13 09:00:00
+126,126,26,Contemporary Renovation Project 126,Full renovation of a 5-room flat in Punggol,Contemporary,32125.00,CURRENT,,25,35,2025-01-14 08:30:00,2025-07-14 09:00:00
+127,127,27,Classic Renovation Project 127,Full renovation of a 3-room flat in Sengkang,Classic,32262.00,PAST,2024-07-15,38,42,2025-01-15 08:30:00,2025-07-15 09:00:00
+128,128,28,Bohemian Renovation Project 128,Full renovation of a 4-room flat in Yishun,Bohemian,32399.00,CURRENT,,51,49,2025-01-16 08:30:00,2025-07-16 09:00:00
+129,129,29,Rustic Renovation Project 129,Full renovation of a 5-room flat in Singapore,Rustic,32536.00,CURRENT,,64,56,2025-01-17 08:30:00,2025-07-17 09:00:00
+130,130,30,Art Deco Renovation Project 130,Full renovation of a 3-room flat in Jurong,Art Deco,32673.00,PAST,2024-10-18,77,3,2025-01-18 08:30:00,2025-07-18 09:00:00
+131,131,31,Modern Renovation Project 131,Full renovation of a 4-room flat in Tampines,Modern,32810.00,CURRENT,,90,10,2025-01-19 08:30:00,2025-07-19 09:00:00
+132,132,32,Minimalist Renovation Project 132,Full renovation of a 5-room flat in Woodlands,Minimalist,32947.00,CURRENT,,103,17,2025-01-20 08:30:00,2025-07-20 09:00:00
+133,133,33,Scandinavian Renovation Project 133,Full renovation of a 3-room flat in Bedok,Scandinavian,33084.00,PAST,2024-01-21,116,24,2025-01-21 08:30:00,2025-07-21 09:00:00
+134,134,34,Industrial Renovation Project 134,Full renovation of a 4-room flat in Punggol,Industrial,33221.00,CURRENT,,129,31,2025-01-22 08:30:00,2025-07-22 09:00:00
+135,135,35,Japanese Renovation Project 135,Full renovation of a 5-room flat in Sengkang,Japanese,33358.00,CURRENT,,142,38,2025-01-23 08:30:00,2025-07-23 09:00:00
+136,136,36,Contemporary Renovation Project 136,Full renovation of a 3-room flat in Yishun,Contemporary,33495.00,PAST,2024-04-24,155,45,2025-01-24 08:30:00,2025-07-24 09:00:00
+137,137,37,Classic Renovation Project 137,Full renovation of a 4-room flat in Singapore,Classic,33632.00,CURRENT,,168,52,2025-01-25 08:30:00,2025-07-25 09:00:00
+138,138,38,Bohemian Renovation Project 138,Full renovation of a 5-room flat in Jurong,Bohemian,33769.00,CURRENT,,181,59,2025-01-26 08:30:00,2025-07-26 09:00:00
+139,139,39,Rustic Renovation Project 139,Full renovation of a 3-room flat in Tampines,Rustic,33906.00,PAST,2024-07-27,194,6,2025-01-27 08:30:00,2025-07-27 09:00:00
+140,140,40,Art Deco Renovation Project 140,Full renovation of a 4-room flat in Woodlands,Art Deco,34043.00,CURRENT,,207,13,2025-01-28 08:30:00,2025-07-28 09:00:00
+141,141,41,Modern Renovation Project 141,Full renovation of a 5-room flat in Bedok,Modern,34180.00,CURRENT,,220,20,2025-01-01 08:30:00,2025-07-01 09:00:00
+142,142,42,Minimalist Renovation Project 142,Full renovation of a 3-room flat in Punggol,Minimalist,34317.00,PAST,2024-10-02,233,27,2025-01-02 08:30:00,2025-07-02 09:00:00
+143,143,43,Scandinavian Renovation Project 143,Full renovation of a 4-room flat in Sengkang,Scandinavian,34454.00,CURRENT,,246,34,2025-01-03 08:30:00,2025-07-03 09:00:00
+144,144,44,Industrial Renovation Project 144,Full renovation of a 5-room flat in Yishun,Industrial,34591.00,CURRENT,,259,41,2025-01-04 08:30:00,2025-07-04 09:00:00
+145,145,45,Japanese Renovation Project 145,Full renovation of a 3-room flat in Singapore,Japanese,34728.00,PAST,2024-01-05,272,48,2025-01-05 08:30:00,2025-07-05 09:00:00
+146,146,46,Contemporary Renovation Project 146,Full renovation of a 4-room flat in Jurong,Contemporary,34865.00,CURRENT,,285,55,2025-01-06 08:30:00,2025-07-06 09:00:00
+147,147,47,Classic Renovation Project 147,Full renovation of a 5-room flat in Tampines,Classic,35002.00,CURRENT,,298,2,2025-01-07 08:30:00,2025-07-07 09:00:00
+148,148,48,Bohemian Renovation Project 148,Full renovation of a 3-room flat in Woodlands,Bohemian,35139.00,PAST,2024-04-08,311,9,2025-01-08 08:30:00,2025-07-08 09:00:00
+149,149,49,Rustic Renovation Project 149,Full renovation of a 4-room flat in Bedok,Rustic,35276.00,CURRENT,,324,16,2025-01-09 08:30:00,2025-07-09 09:00:00
+150,150,50,Art Deco Renovation Project 150,Full renovation of a 5-room flat in Punggol,Art Deco,35413.00,CURRENT,,337,23,2025-01-10 08:30:00,2025-07-10 09:00:00
+151,151,51,Modern Renovation Project 151,Full renovation of a 3-room flat in Sengkang,Modern,35550.00,PAST,2024-07-11,350,30,2025-01-11 08:30:00,2025-07-11 09:00:00
+152,152,52,Minimalist Renovation Project 152,Full renovation of a 4-room flat in Yishun,Minimalist,35687.00,CURRENT,,363,37,2025-01-12 08:30:00,2025-07-12 09:00:00
+153,153,53,Scandinavian Renovation Project 153,Full renovation of a 5-room flat in Singapore,Scandinavian,35824.00,CURRENT,,376,44,2025-01-13 08:30:00,2025-07-13 09:00:00
+154,154,54,Industrial Renovation Project 154,Full renovation of a 3-room flat in Jurong,Industrial,35961.00,PAST,2024-10-14,389,51,2025-01-14 08:30:00,2025-07-14 09:00:00
+155,155,55,Japanese Renovation Project 155,Full renovation of a 4-room flat in Tampines,Japanese,36098.00,CURRENT,,2,58,2025-01-15 08:30:00,2025-07-15 09:00:00
+156,156,56,Contemporary Renovation Project 156,Full renovation of a 5-room flat in Woodlands,Contemporary,36235.00,CURRENT,,15,5,2025-01-16 08:30:00,2025-07-16 09:00:00
+157,157,57,Classic Renovation Project 157,Full renovation of a 3-room flat in Bedok,Classic,36372.00,PAST,2024-01-17,28,12,2025-01-17 08:30:00,2025-07-17 09:00:00
+158,158,58,Bohemian Renovation Project 158,Full renovation of a 4-room flat in Punggol,Bohemian,36509.00,CURRENT,,41,19,2025-01-18 08:30:00,2025-07-18 09:00:00
+159,159,59,Rustic Renovation Project 159,Full renovation of a 5-room flat in Sengkang,Rustic,36646.00,CURRENT,,54,26,2025-01-19 08:30:00,2025-07-19 09:00:00
+160,160,60,Art Deco Renovation Project 160,Full renovation of a 3-room flat in Yishun,Art Deco,36783.00,PAST,2024-04-20,67,33,2025-01-20 08:30:00,2025-07-20 09:00:00
+161,161,61,Modern Renovation Project 161,Full renovation of a 4-room flat in Singapore,Modern,36920.00,CURRENT,,80,40,2025-01-21 08:30:00,2025-07-21 09:00:00
+162,162,62,Minimalist Renovation Project 162,Full renovation of a 5-room flat in Jurong,Minimalist,37057.00,CURRENT,,93,47,2025-01-22 08:30:00,2025-07-22 09:00:00
+163,163,63,Scandinavian Renovation Project 163,Full renovation of a 3-room flat in Tampines,Scandinavian,37194.00,PAST,2024-07-23,106,54,2025-01-23 08:30:00,2025-07-23 09:00:00
+164,164,64,Industrial Renovation Project 164,Full renovation of a 4-room flat in Woodlands,Industrial,37331.00,CURRENT,,119,1,2025-01-24 08:30:00,2025-07-24 09:00:00
+165,165,65,Japanese Renovation Project 165,Full renovation of a 5-room flat in Bedok,Japanese,37468.00,CURRENT,,132,8,2025-01-25 08:30:00,2025-07-25 09:00:00
+166,166,66,Contemporary Renovation Project 166,Full renovation of a 3-room flat in Punggol,Contemporary,37605.00,PAST,2024-10-26,145,15,2025-01-26 08:30:00,2025-07-26 09:00:00
+167,167,67,Classic Renovation Project 167,Full renovation of a 4-room flat in Sengkang,Classic,37742.00,CURRENT,,158,22,2025-01-27 08:30:00,2025-07-27 09:00:00
+168,168,68,Bohemian Renovation Project 168,Full renovation of a 5-room flat in Yishun,Bohemian,37879.00,CURRENT,,171,29,2025-01-28 08:30:00,2025-07-28 09:00:00
+169,169,69,Rustic Renovation Project 169,Full renovation of a 3-room flat in Singapore,Rustic,38016.00,PAST,2024-01-01,184,36,2025-01-01 08:30:00,2025-07-01 09:00:00
+170,170,70,Art Deco Renovation Project 170,Full renovation of a 4-room flat in Jurong,Art Deco,38153.00,CURRENT,,197,43,2025-01-02 08:30:00,2025-07-02 09:00:00
+171,171,71,Modern Renovation Project 171,Full renovation of a 5-room flat in Tampines,Modern,38290.00,CURRENT,,210,50,2025-01-03 08:30:00,2025-07-03 09:00:00
+172,172,72,Minimalist Renovation Project 172,Full renovation of a 3-room flat in Woodlands,Minimalist,38427.00,PAST,2024-04-04,223,57,2025-01-04 08:30:00,2025-07-04 09:00:00
+173,173,73,Scandinavian Renovation Project 173,Full renovation of a 4-room flat in Bedok,Scandinavian,38564.00,CURRENT,,236,4,2025-01-05 08:30:00,2025-07-05 09:00:00
+174,174,74,Industrial Renovation Project 174,Full renovation of a 5-room flat in Punggol,Industrial,38701.00,CURRENT,,249,11,2025-01-06 08:30:00,2025-07-06 09:00:00
+175,175,75,Japanese Renovation Project 175,Full renovation of a 3-room flat in Sengkang,Japanese,38838.00,PAST,2024-07-07,262,18,2025-01-07 08:30:00,2025-07-07 09:00:00
+176,176,76,Contemporary Renovation Project 176,Full renovation of a 4-room flat in Yishun,Contemporary,38975.00,CURRENT,,275,25,2025-01-08 08:30:00,2025-07-08 09:00:00
+177,177,77,Classic Renovation Project 177,Full renovation of a 5-room flat in Singapore,Classic,39112.00,CURRENT,,288,32,2025-01-09 08:30:00,2025-07-09 09:00:00
+178,178,78,Bohemian Renovation Project 178,Full renovation of a 3-room flat in Jurong,Bohemian,39249.00,PAST,2024-10-10,301,39,2025-01-10 08:30:00,2025-07-10 09:00:00
+179,179,79,Rustic Renovation Project 179,Full renovation of a 4-room flat in Tampines,Rustic,39386.00,CURRENT,,314,46,2025-01-11 08:30:00,2025-07-11 09:00:00
+180,180,80,Art Deco Renovation Project 180,Full renovation of a 5-room flat in Woodlands,Art Deco,39523.00,CURRENT,,327,53,2025-01-12 08:30:00,2025-07-12 09:00:00
+181,181,81,Modern Renovation Project 181,Full renovation of a 3-room flat in Bedok,Modern,39660.00,PAST,2024-01-13,340,0,2025-01-13 08:30:00,2025-07-13 09:00:00
+182,182,82,Minimalist Renovation Project 182,Full renovation of a 4-room flat in Punggol,Minimalist,39797.00,CURRENT,,353,7,2025-01-14 08:30:00,2025-07-14 09:00:00
+183,183,83,Scandinavian Renovation Project 183,Full renovation of a 5-room flat in Sengkang,Scandinavian,39934.00,CURRENT,,366,14,2025-01-15 08:30:00,2025-07-15 09:00:00
+184,184,84,Industrial Renovation Project 184,Full renovation of a 3-room flat in Yishun,Industrial,40071.00,PAST,2024-04-16,379,21,2025-01-16 08:30:00,2025-07-16 09:00:00
+185,185,85,Japanese Renovation Project 185,Full renovation of a 4-room flat in Singapore,Japanese,40208.00,CURRENT,,392,28,2025-01-17 08:30:00,2025-07-17 09:00:00
+186,186,86,Contemporary Renovation Project 186,Full renovation of a 5-room flat in Jurong,Contemporary,40345.00,CURRENT,,5,35,2025-01-18 08:30:00,2025-07-18 09:00:00
+187,187,87,Classic Renovation Project 187,Full renovation of a 3-room flat in Tampines,Classic,40482.00,PAST,2024-07-19,18,42,2025-01-19 08:30:00,2025-07-19 09:00:00
+188,188,88,Bohemian Renovation Project 188,Full renovation of a 4-room flat in Woodlands,Bohemian,40619.00,CURRENT,,31,49,2025-01-20 08:30:00,2025-07-20 09:00:00
+189,189,89,Rustic Renovation Project 189,Full renovation of a 5-room flat in Bedok,Rustic,40756.00,CURRENT,,44,56,2025-01-21 08:30:00,2025-07-21 09:00:00
+190,190,90,Art Deco Renovation Project 190,Full renovation of a 3-room flat in Punggol,Art Deco,40893.00,PAST,2024-10-22,57,3,2025-01-22 08:30:00,2025-07-22 09:00:00
+191,191,91,Modern Renovation Project 191,Full renovation of a 4-room flat in Sengkang,Modern,41030.00,CURRENT,,70,10,2025-01-23 08:30:00,2025-07-23 09:00:00
+192,192,92,Minimalist Renovation Project 192,Full renovation of a 5-room flat in Yishun,Minimalist,41167.00,CURRENT,,83,17,2025-01-24 08:30:00,2025-07-24 09:00:00
+193,193,93,Scandinavian Renovation Project 193,Full renovation of a 3-room flat in Singapore,Scandinavian,41304.00,PAST,2024-01-25,96,24,2025-01-25 08:30:00,2025-07-25 09:00:00
+194,194,94,Industrial Renovation Project 194,Full renovation of a 4-room flat in Jurong,Industrial,41441.00,CURRENT,,109,31,2025-01-26 08:30:00,2025-07-26 09:00:00
+195,195,95,Japanese Renovation Project 195,Full renovation of a 5-room flat in Tampines,Japanese,41578.00,CURRENT,,122,38,2025-01-27 08:30:00,2025-07-27 09:00:00
+196,196,96,Contemporary Renovation Project 196,Full renovation of a 3-room flat in Woodlands,Contemporary,41715.00,PAST,2024-04-28,135,45,2025-01-28 08:30:00,2025-07-28 09:00:00
+197,197,97,Classic Renovation Project 197,Full renovation of a 4-room flat in Bedok,Classic,41852.00,CURRENT,,148,52,2025-01-01 08:30:00,2025-07-01 09:00:00
+198,198,98,Bohemian Renovation Project 198,Full renovation of a 5-room flat in Punggol,Bohemian,41989.00,CURRENT,,161,59,2025-01-02 08:30:00,2025-07-02 09:00:00
+199,199,99,Rustic Renovation Project 199,Full renovation of a 3-room flat in Sengkang,Rustic,42126.00,PAST,2024-07-03,174,6,2025-01-03 08:30:00,2025-07-03 09:00:00
+200,200,100,Art Deco Renovation Project 200,Full renovation of a 4-room flat in Yishun,Art Deco,42263.00,CURRENT,,187,13,2025-01-04 08:30:00,2025-07-04 09:00:00
+201,101,1,Modern Renovation Project 201,Full renovation of a 5-room flat in Singapore,Modern,42400.00,CURRENT,,200,20,2025-01-05 08:30:00,2025-07-05 09:00:00
+202,102,2,Minimalist Renovation Project 202,Full renovation of a 3-room flat in Jurong,Minimalist,42537.00,PAST,2024-10-06,213,27,2025-01-06 08:30:00,2025-07-06 09:00:00
+203,103,3,Scandinavian Renovation Project 203,Full renovation of a 4-room flat in Tampines,Scandinavian,42674.00,CURRENT,,226,34,2025-01-07 08:30:00,2025-07-07 09:00:00
+204,104,4,Industrial Renovation Project 204,Full renovation of a 5-room flat in Woodlands,Industrial,42811.00,CURRENT,,239,41,2025-01-08 08:30:00,2025-07-08 09:00:00
+205,105,5,Japanese Renovation Project 205,Full renovation of a 3-room flat in Bedok,Japanese,42948.00,PAST,2024-01-09,252,48,2025-01-09 08:30:00,2025-07-09 09:00:00
+206,106,6,Contemporary Renovation Project 206,Full renovation of a 4-room flat in Punggol,Contemporary,43085.00,CURRENT,,265,55,2025-01-10 08:30:00,2025-07-10 09:00:00
+207,107,7,Classic Renovation Project 207,Full renovation of a 5-room flat in Sengkang,Classic,43222.00,CURRENT,,278,2,2025-01-11 08:30:00,2025-07-11 09:00:00
+208,108,8,Bohemian Renovation Project 208,Full renovation of a 3-room flat in Yishun,Bohemian,43359.00,PAST,2024-04-12,291,9,2025-01-12 08:30:00,2025-07-12 09:00:00
+209,109,9,Rustic Renovation Project 209,Full renovation of a 4-room flat in Singapore,Rustic,43496.00,CURRENT,,304,16,2025-01-13 08:30:00,2025-07-13 09:00:00
+210,110,10,Art Deco Renovation Project 210,Full renovation of a 5-room flat in Jurong,Art Deco,43633.00,CURRENT,,317,23,2025-01-14 08:30:00,2025-07-14 09:00:00
+211,111,11,Modern Renovation Project 211,Full renovation of a 3-room flat in Tampines,Modern,43770.00,PAST,2024-07-15,330,30,2025-01-15 08:30:00,2025-07-15 09:00:00
+212,112,12,Minimalist Renovation Project 212,Full renovation of a 4-room flat in Woodlands,Minimalist,43907.00,CURRENT,,343,37,2025-01-16 08:30:00,2025-07-16 09:00:00
+213,113,13,Scandinavian Renovation Project 213,Full renovation of a 5-room flat in Bedok,Scandinavian,44044.00,CURRENT,,356,44,2025-01-17 08:30:00,2025-07-17 09:00:00
+214,114,14,Industrial Renovation Project 214,Full renovation of a 3-room flat in Punggol,Industrial,44181.00,PAST,2024-10-18,369,51,2025-01-18 08:30:00,2025-07-18 09:00:00
+215,115,15,Japanese Renovation Project 215,Full renovation of a 4-room flat in Sengkang,Japanese,44318.00,CURRENT,,382,58,2025-01-19 08:30:00,2025-07-19 09:00:00
+216,116,16,Contemporary Renovation Project 216,Full renovation of a 5-room flat in Yishun,Contemporary,44455.00,CURRENT,,395,5,2025-01-20 08:30:00,2025-07-20 09:00:00
+217,117,17,Classic Renovation Project 217,Full renovation of a 3-room flat in Singapore,Classic,44592.00,PAST,2024-01-21,8,12,2025-01-21 08:30:00,2025-07-21 09:00:00
+218,118,18,Bohemian Renovation Project 218,Full renovation of a 4-room flat in Jurong,Bohemian,44729.00,CURRENT,,21,19,2025-01-22 08:30:00,2025-07-22 09:00:00
+219,119,19,Rustic Renovation Project 219,Full renovation of a 5-room flat in Tampines,Rustic,44866.00,CURRENT,,34,26,2025-01-23 08:30:00,2025-07-23 09:00:00
+220,120,20,Art Deco Renovation Project 220,Full renovation of a 3-room flat in Woodlands,Art Deco,45003.00,PAST,2024-04-24,47,33,2025-01-24 08:30:00,2025-07-24 09:00:00
+221,121,21,Modern Renovation Project 221,Full renovation of a 4-room flat in Bedok,Modern,45140.00,CURRENT,,60,40,2025-01-25 08:30:00,2025-07-25 09:00:00
+222,122,22,Minimalist Renovation Project 222,Full renovation of a 5-room flat in Punggol,Minimalist,45277.00,CURRENT,,73,47,2025-01-26 08:30:00,2025-07-26 09:00:00
+223,123,23,Scandinavian Renovation Project 223,Full renovation of a 3-room flat in Sengkang,Scandinavian,45414.00,PAST,2024-07-27,86,54,2025-01-27 08:30:00,2025-07-27 09:00:00
+224,124,24,Industrial Renovation Project 224,Full renovation of a 4-room flat in Yishun,Industrial,45551.00,CURRENT,,99,1,2025-01-28 08:30:00,2025-07-28 09:00:00
+225,125,25,Japanese Renovation Project 225,Full renovation of a 5-room flat in Singapore,Japanese,45688.00,CURRENT,,112,8,2025-01-01 08:30:00,2025-07-01 09:00:00
+226,126,26,Contemporary Renovation Project 226,Full renovation of a 3-room flat in Jurong,Contemporary,45825.00,PAST,2024-10-02,125,15,2025-01-02 08:30:00,2025-07-02 09:00:00
+227,127,27,Classic Renovation Project 227,Full renovation of a 4-room flat in Tampines,Classic,45962.00,CURRENT,,138,22,2025-01-03 08:30:00,2025-07-03 09:00:00
+228,128,28,Bohemian Renovation Project 228,Full renovation of a 5-room flat in Woodlands,Bohemian,46099.00,CURRENT,,151,29,2025-01-04 08:30:00,2025-07-04 09:00:00
+229,129,29,Rustic Renovation Project 229,Full renovation of a 3-room flat in Bedok,Rustic,46236.00,PAST,2024-01-05,164,36,2025-01-05 08:30:00,2025-07-05 09:00:00
+230,130,30,Art Deco Renovation Project 230,Full renovation of a 4-room flat in Punggol,Art Deco,46373.00,CURRENT,,177,43,2025-01-06 08:30:00,2025-07-06 09:00:00
+231,131,31,Modern Renovation Project 231,Full renovation of a 5-room flat in Sengkang,Modern,46510.00,CURRENT,,190,50,2025-01-07 08:30:00,2025-07-07 09:00:00
+232,132,32,Minimalist Renovation Project 232,Full renovation of a 3-room flat in Yishun,Minimalist,46647.00,PAST,2024-04-08,203,57,2025-01-08 08:30:00,2025-07-08 09:00:00
+233,133,33,Scandinavian Renovation Project 233,Full renovation of a 4-room flat in Singapore,Scandinavian,46784.00,CURRENT,,216,4,2025-01-09 08:30:00,2025-07-09 09:00:00
+234,134,34,Industrial Renovation Project 234,Full renovation of a 5-room flat in Jurong,Industrial,46921.00,CURRENT,,229,11,2025-01-10 08:30:00,2025-07-10 09:00:00
+235,135,35,Japanese Renovation Project 235,Full renovation of a 3-room flat in Tampines,Japanese,47058.00,PAST,2024-07-11,242,18,2025-01-11 08:30:00,2025-07-11 09:00:00
+236,136,36,Contemporary Renovation Project 236,Full renovation of a 4-room flat in Woodlands,Contemporary,47195.00,CURRENT,,255,25,2025-01-12 08:30:00,2025-07-12 09:00:00
+237,137,37,Classic Renovation Project 237,Full renovation of a 5-room flat in Bedok,Classic,47332.00,CURRENT,,268,32,2025-01-13 08:30:00,2025-07-13 09:00:00
+238,138,38,Bohemian Renovation Project 238,Full renovation of a 3-room flat in Punggol,Bohemian,47469.00,PAST,2024-10-14,281,39,2025-01-14 08:30:00,2025-07-14 09:00:00
+239,139,39,Rustic Renovation Project 239,Full renovation of a 4-room flat in Sengkang,Rustic,47606.00,CURRENT,,294,46,2025-01-15 08:30:00,2025-07-15 09:00:00
+240,140,40,Art Deco Renovation Project 240,Full renovation of a 5-room flat in Yishun,Art Deco,47743.00,CURRENT,,307,53,2025-01-16 08:30:00,2025-07-16 09:00:00
+241,141,41,Modern Renovation Project 241,Full renovation of a 3-room flat in Singapore,Modern,47880.00,PAST,2024-01-17,320,0,2025-01-17 08:30:00,2025-07-17 09:00:00
+242,142,42,Minimalist Renovation Project 242,Full renovation of a 4-room flat in Jurong,Minimalist,48017.00,CURRENT,,333,7,2025-01-18 08:30:00,2025-07-18 09:00:00
+243,143,43,Scandinavian Renovation Project 243,Full renovation of a 5-room flat in Tampines,Scandinavian,48154.00,CURRENT,,346,14,2025-01-19 08:30:00,2025-07-19 09:00:00
+244,144,44,Industrial Renovation Project 244,Full renovation of a 3-room flat in Woodlands,Industrial,48291.00,PAST,2024-04-20,359,21,2025-01-20 08:30:00,2025-07-20 09:00:00
+245,145,45,Japanese Renovation Project 245,Full renovation of a 4-room flat in Bedok,Japanese,48428.00,CURRENT,,372,28,2025-01-21 08:30:00,2025-07-21 09:00:00
+246,146,46,Contemporary Renovation Project 246,Full renovation of a 5-room flat in Punggol,Contemporary,48565.00,CURRENT,,385,35,2025-01-22 08:30:00,2025-07-22 09:00:00
+247,147,47,Classic Renovation Project 247,Full renovation of a 3-room flat in Sengkang,Classic,48702.00,PAST,2024-07-23,398,42,2025-01-23 08:30:00,2025-07-23 09:00:00
+248,148,48,Bohemian Renovation Project 248,Full renovation of a 4-room flat in Yishun,Bohemian,48839.00,CURRENT,,11,49,2025-01-24 08:30:00,2025-07-24 09:00:00
+249,149,49,Rustic Renovation Project 249,Full renovation of a 5-room flat in Singapore,Rustic,48976.00,CURRENT,,24,56,2025-01-25 08:30:00,2025-07-25 09:00:00
+250,150,50,Art Deco Renovation Project 250,Full renovation of a 3-room flat in Jurong,Art Deco,49113.00,PAST,2024-10-26,37,3,2025-01-26 08:30:00,2025-07-26 09:00:00
+251,151,51,Modern Renovation Project 251,Full renovation of a 4-room flat in Tampines,Modern,49250.00,CURRENT,,50,10,2025-01-27 08:30:00,2025-07-27 09:00:00
+252,152,52,Minimalist Renovation Project 252,Full renovation of a 5-room flat in Woodlands,Minimalist,49387.00,CURRENT,,63,17,2025-01-28 08:30:00,2025-07-28 09:00:00
+253,153,53,Scandinavian Renovation Project 253,Full renovation of a 3-room flat in Bedok,Scandinavian,49524.00,PAST,2024-01-01,76,24,2025-01-01 08:30:00,2025-07-01 09:00:00
+254,154,54,Industrial Renovation Project 254,Full renovation of a 4-room flat in Punggol,Industrial,49661.00,CURRENT,,89,31,2025-01-02 08:30:00,2025-07-02 09:00:00
+255,155,55,Japanese Renovation Project 255,Full renovation of a 5-room flat in Sengkang,Japanese,49798.00,CURRENT,,102,38,2025-01-03 08:30:00,2025-07-03 09:00:00
+256,156,56,Contemporary Renovation Project 256,Full renovation of a 3-room flat in Yishun,Contemporary,49935.00,PAST,2024-04-04,115,45,2025-01-04 08:30:00,2025-07-04 09:00:00
+257,157,57,Classic Renovation Project 257,Full renovation of a 4-room flat in Singapore,Classic,50072.00,CURRENT,,128,52,2025-01-05 08:30:00,2025-07-05 09:00:00
+258,158,58,Bohemian Renovation Project 258,Full renovation of a 5-room flat in Jurong,Bohemian,50209.00,CURRENT,,141,59,2025-01-06 08:30:00,2025-07-06 09:00:00
+259,159,59,Rustic Renovation Project 259,Full renovation of a 3-room flat in Tampines,Rustic,50346.00,PAST,2024-07-07,154,6,2025-01-07 08:30:00,2025-07-07 09:00:00
+260,160,60,Art Deco Renovation Project 260,Full renovation of a 4-room flat in Woodlands,Art Deco,50483.00,CURRENT,,167,13,2025-01-08 08:30:00,2025-07-08 09:00:00
+261,161,61,Modern Renovation Project 261,Full renovation of a 5-room flat in Bedok,Modern,50620.00,CURRENT,,180,20,2025-01-09 08:30:00,2025-07-09 09:00:00
+262,162,62,Minimalist Renovation Project 262,Full renovation of a 3-room flat in Punggol,Minimalist,50757.00,PAST,2024-10-10,193,27,2025-01-10 08:30:00,2025-07-10 09:00:00
+263,163,63,Scandinavian Renovation Project 263,Full renovation of a 4-room flat in Sengkang,Scandinavian,50894.00,CURRENT,,206,34,2025-01-11 08:30:00,2025-07-11 09:00:00
+264,164,64,Industrial Renovation Project 264,Full renovation of a 5-room flat in Yishun,Industrial,51031.00,CURRENT,,219,41,2025-01-12 08:30:00,2025-07-12 09:00:00
+265,165,65,Japanese Renovation Project 265,Full renovation of a 3-room flat in Singapore,Japanese,51168.00,PAST,2024-01-13,232,48,2025-01-13 08:30:00,2025-07-13 09:00:00
+266,166,66,Contemporary Renovation Project 266,Full renovation of a 4-room flat in Jurong,Contemporary,51305.00,CURRENT,,245,55,2025-01-14 08:30:00,2025-07-14 09:00:00
+267,167,67,Classic Renovation Project 267,Full renovation of a 5-room flat in Tampines,Classic,51442.00,CURRENT,,258,2,2025-01-15 08:30:00,2025-07-15 09:00:00
+268,168,68,Bohemian Renovation Project 268,Full renovation of a 3-room flat in Woodlands,Bohemian,51579.00,PAST,2024-04-16,271,9,2025-01-16 08:30:00,2025-07-16 09:00:00
+269,169,69,Rustic Renovation Project 269,Full renovation of a 4-room flat in Bedok,Rustic,51716.00,CURRENT,,284,16,2025-01-17 08:30:00,2025-07-17 09:00:00
+270,170,70,Art Deco Renovation Project 270,Full renovation of a 5-room flat in Punggol,Art Deco,51853.00,CURRENT,,297,23,2025-01-18 08:30:00,2025-07-18 09:00:00
+271,171,71,Modern Renovation Project 271,Full renovation of a 3-room flat in Sengkang,Modern,51990.00,PAST,2024-07-19,310,30,2025-01-19 08:30:00,2025-07-19 09:00:00
+272,172,72,Minimalist Renovation Project 272,Full renovation of a 4-room flat in Yishun,Minimalist,52127.00,CURRENT,,323,37,2025-01-20 08:30:00,2025-07-20 09:00:00
+273,173,73,Scandinavian Renovation Project 273,Full renovation of a 5-room flat in Singapore,Scandinavian,52264.00,CURRENT,,336,44,2025-01-21 08:30:00,2025-07-21 09:00:00
+274,174,74,Industrial Renovation Project 274,Full renovation of a 3-room flat in Jurong,Industrial,52401.00,PAST,2024-10-22,349,51,2025-01-22 08:30:00,2025-07-22 09:00:00
+275,175,75,Japanese Renovation Project 275,Full renovation of a 4-room flat in Tampines,Japanese,52538.00,CURRENT,,362,58,2025-01-23 08:30:00,2025-07-23 09:00:00
+276,176,76,Contemporary Renovation Project 276,Full renovation of a 5-room flat in Woodlands,Contemporary,52675.00,CURRENT,,375,5,2025-01-24 08:30:00,2025-07-24 09:00:00
+277,177,77,Classic Renovation Project 277,Full renovation of a 3-room flat in Bedok,Classic,52812.00,PAST,2024-01-25,388,12,2025-01-25 08:30:00,2025-07-25 09:00:00
+278,178,78,Bohemian Renovation Project 278,Full renovation of a 4-room flat in Punggol,Bohemian,52949.00,CURRENT,,1,19,2025-01-26 08:30:00,2025-07-26 09:00:00
+279,179,79,Rustic Renovation Project 279,Full renovation of a 5-room flat in Sengkang,Rustic,53086.00,CURRENT,,14,26,2025-01-27 08:30:00,2025-07-27 09:00:00
+280,180,80,Art Deco Renovation Project 280,Full renovation of a 3-room flat in Yishun,Art Deco,53223.00,PAST,2024-04-28,27,33,2025-01-28 08:30:00,2025-07-28 09:00:00
+281,181,81,Modern Renovation Project 281,Full renovation of a 4-room flat in Singapore,Modern,53360.00,CURRENT,,40,40,2025-01-01 08:30:00,2025-07-01 09:00:00
+282,182,82,Minimalist Renovation Project 282,Full renovation of a 5-room flat in Jurong,Minimalist,53497.00,CURRENT,,53,47,2025-01-02 08:30:00,2025-07-02 09:00:00
+283,183,83,Scandinavian Renovation Project 283,Full renovation of a 3-room flat in Tampines,Scandinavian,53634.00,PAST,2024-07-03,66,54,2025-01-03 08:30:00,2025-07-03 09:00:00
+284,184,84,Industrial Renovation Project 284,Full renovation of a 4-room flat in Woodlands,Industrial,53771.00,CURRENT,,79,1,2025-01-04 08:30:00,2025-07-04 09:00:00
+285,185,85,Japanese Renovation Project 285,Full renovation of a 5-room flat in Bedok,Japanese,53908.00,CURRENT,,92,8,2025-01-05 08:30:00,2025-07-05 09:00:00
+286,186,86,Contemporary Renovation Project 286,Full renovation of a 3-room flat in Punggol,Contemporary,54045.00,PAST,2024-10-06,105,15,2025-01-06 08:30:00,2025-07-06 09:00:00
+287,187,87,Classic Renovation Project 287,Full renovation of a 4-room flat in Sengkang,Classic,54182.00,CURRENT,,118,22,2025-01-07 08:30:00,2025-07-07 09:00:00
+288,188,88,Bohemian Renovation Project 288,Full renovation of a 5-room flat in Yishun,Bohemian,54319.00,CURRENT,,131,29,2025-01-08 08:30:00,2025-07-08 09:00:00
+289,189,89,Rustic Renovation Project 289,Full renovation of a 3-room flat in Singapore,Rustic,54456.00,PAST,2024-01-09,144,36,2025-01-09 08:30:00,2025-07-09 09:00:00
+290,190,90,Art Deco Renovation Project 290,Full renovation of a 4-room flat in Jurong,Art Deco,54593.00,CURRENT,,157,43,2025-01-10 08:30:00,2025-07-10 09:00:00
+291,191,91,Modern Renovation Project 291,Full renovation of a 5-room flat in Tampines,Modern,54730.00,CURRENT,,170,50,2025-01-11 08:30:00,2025-07-11 09:00:00
+292,192,92,Minimalist Renovation Project 292,Full renovation of a 3-room flat in Woodlands,Minimalist,54867.00,PAST,2024-04-12,183,57,2025-01-12 08:30:00,2025-07-12 09:00:00
+293,193,93,Scandinavian Renovation Project 293,Full renovation of a 4-room flat in Bedok,Scandinavian,55004.00,CURRENT,,196,4,2025-01-13 08:30:00,2025-07-13 09:00:00
+294,194,94,Industrial Renovation Project 294,Full renovation of a 5-room flat in Punggol,Industrial,55141.00,CURRENT,,209,11,2025-01-14 08:30:00,2025-07-14 09:00:00
+295,195,95,Japanese Renovation Project 295,Full renovation of a 3-room flat in Sengkang,Japanese,55278.00,PAST,2024-07-15,222,18,2025-01-15 08:30:00,2025-07-15 09:00:00
+296,196,96,Contemporary Renovation Project 296,Full renovation of a 4-room flat in Yishun,Contemporary,55415.00,CURRENT,,235,25,2025-01-16 08:30:00,2025-07-16 09:00:00
+297,197,97,Classic Renovation Project 297,Full renovation of a 5-room flat in Singapore,Classic,55552.00,CURRENT,,248,32,2025-01-17 08:30:00,2025-07-17 09:00:00
+298,198,98,Bohemian Renovation Project 298,Full renovation of a 3-room flat in Jurong,Bohemian,55689.00,PAST,2024-10-18,261,39,2025-01-18 08:30:00,2025-07-18 09:00:00
+299,199,99,Rustic Renovation Project 299,Full renovation of a 4-room flat in Tampines,Rustic,55826.00,CURRENT,,274,46,2025-01-19 08:30:00,2025-07-19 09:00:00
+300,200,100,Art Deco Renovation Project 300,Full renovation of a 5-room flat in Woodlands,Art Deco,55963.00,CURRENT,,287,53,2025-01-20 08:30:00,2025-07-20 09:00:00

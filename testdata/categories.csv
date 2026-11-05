@@ -1,0 +1,101 @@
+category_id,name,description,status
+1,Kitchen,Projects filed under kitchen,ACTIVE
+2,Living Room,Projects filed under living room,ACTIVE
+3,Bedroom,Projects filed under bedroom,ACTIVE
+4,Bathroom,Projects filed under bathroom,ACTIVE
+5,Study,Projects filed under study,ACTIVE
+6,Dining Room,Projects filed under dining room,ACTIVE
+7,Balcony,Projects filed under balcony,ACTIVE
+8,Kids Room,Projects filed under kids room,ACTIVE
+9,Home Office,Projects filed under home office,ACTIVE
+10,Walk-in Closet,Projects filed under walk-in closet,ACTIVE
+11,Entrance,Projects filed under entrance,ACTIVE
+12,Patio,Projects filed under patio,ACTIVE
+13,Kitchen 2,Projects filed under kitchen 2,ACTIVE
+14,Living Room 2,Projects filed under living room 2,ACTIVE
+15,Bedroom 2,Projects filed under bedroom 2,ACTIVE
+16,Bathroom 2,Projects filed under bathroom 2,ACTIVE
+17,Study 2,Projects filed under study 2,ACTIVE
+18,Dining Room 2,Projects filed under dining room 2,ACTIVE
+19,Balcony 2,Projects filed under balcony 2,ACTIVE
+20,Kids Room 2,Projects filed under kids room 2,ACTIVE
+21,Home Office 2,Projects filed under home office 2,ACTIVE
+22,Walk-in Closet 2,Projects filed under walk-in closet 2,ACTIVE
+23,Entrance 2,Projects filed under entrance 2,ACTIVE
+24,Patio 2,Projects filed under patio 2,ACTIVE
+25,Kitchen 3,Projects filed under kitchen 3,ACTIVE
+26,Living Room 3,Projects filed under living room 3,ACTIVE
+27,Bedroom 3,Projects filed under bedroom 3,ACTIVE
+28,Bathroom 3,Projects filed under bathroom 3,ACTIVE
+29,Study 3,Projects filed under study 3,ACTIVE
+30,Dining Room 3,Projects filed under dining room 3,ACTIVE
+31,Balcony 3,Projects filed under balcony 3,ACTIVE
+32,Kids Room 3,Projects filed under kids room 3,ACTIVE
+33,Home Office 3,Projects filed under home office 3,ACTIVE
+34,Walk-in Closet 3,Projects filed under walk-in closet 3,ACTIVE
+35,Entrance 3,Projects filed under entrance 3,ACTIVE
+36,Patio 3,Projects filed under patio 3,ACTIVE
+37,Kitchen 4,Projects filed under kitchen 4,ACTIVE
+38,Living Room 4,Projects filed under living room 4,ACTIVE
+39,Bedroom 4,Projects filed under bedroom 4,ACTIVE
+40,Bathroom 4,Projects filed under bathroom 4,ACTIVE
+41,Study 4,Projects filed under study 4,ACTIVE
+42,Dining Room 4,Projects filed under dining room 4,ACTIVE
+43,Balcony 4,Projects filed under balcony 4,ACTIVE
+44,Kids Room 4,Projects filed under kids room 4,ACTIVE
+45,Home Office 4,Projects filed under home office 4,ACTIVE
+46,Walk-in Closet 4,Projects filed under walk-in closet 4,ACTIVE
+47,Entrance 4,Projects filed under entrance 4,ACTIVE
+48,Patio 4,Projects filed under patio 4,ACTIVE
+49,Kitchen 5,Projects filed under kitchen 5,ACTIVE
+50,Living Room 5,Projects filed under living room 5,ACTIVE
+51,Bedroom 5,Projects filed under bedroom 5,ACTIVE
+52,Bathroom 5,Projects filed under bathroom 5,ACTIVE
+53,Study 5,Projects filed under study 5,ACTIVE
+54,Dining Room 5,Projects filed under dining room 5,ACTIVE
+55,Balcony 5,Projects filed under balcony 5,ACTIVE
+56,Kids Room 5,Projects filed under kids room 5,ACTIVE
+57,Home Office 5,Projects filed under home office 5,ACTIVE
+58,Walk-in Closet 5,Projects filed under walk-in closet 5,ACTIVE
+59,Entrance 5,Projects filed under entrance 5,ACTIVE
+60,Patio 5,Projects filed under patio 5,ACTIVE
+61,Kitchen 6,Projects filed under kitchen 6,ACTIVE
+62,Living Room 6,Projects filed under living room 6,ACTIVE
+63,Bedroom 6,Projects filed under bedroom 6,ACTIVE
+64,Bathroom 6,Projects filed under bathroom 6,ACTIVE
+65,Study 6,Projects filed under study 6,ACTIVE
+66,Dining Room 6,Projects filed under dining room 6,ACTIVE
+67,Balcony 6,Projects filed under balcony 6,ACTIVE
+68,Kids Room 6,Projects filed under kids room 6,ACTIVE
+69,Home Office 6,Projects filed under home office 6,ACTIVE
+70,Walk-in Closet 6,Projects filed under walk-in closet 6,ACTIVE
+71,Entrance 6,Projects filed under entrance 6,ACTIVE
+72,Patio 6,Projects filed under patio 6,ACTIVE
+73,Kitchen 7,Projects filed under kitchen 7,ACTIVE
+74,Living Room 7,Projects filed under living room 7,ACTIVE
+75,Bedroom 7,Projects filed under bedroom 7,ACTIVE
+76,Bathroom 7,Projects filed under bathroom 7,ACTIVE
+77,Study 7,Projects filed under study 7,ACTIVE
+78,Dining Room 7,Projects filed under dining room 7,ACTIVE
+79,Balcony 7,Projects filed under balcony 7,ACTIVE
+80,Kids Room 7,Projects filed under kids room 7,ACTIVE
+81,Home Office 7,Projects filed under home office 7,ACTIVE
+82,Walk-in Closet 7,Projects filed under walk-in closet 7,ACTIVE
+83,Entrance 7,Projects filed under entrance 7,ACTIVE
+84,Patio 7,Projects filed under patio 7,ACTIVE
+85,Kitchen 8,Projects filed under kitchen 8,ACTIVE
+86,Living Room 8,Projects filed under living room 8,ACTIVE
+87,Bedroom 8,Projects filed under bedroom 8,ACTIVE
+88,Bathroom 8,Projects filed under bathroom 8,ACTIVE
+89,Study 8,Projects filed under study 8,ACTIVE
+90,Dining Room 8,Projects filed under dining room 8,ACTIVE
+91,Balcony 8,Projects filed under balcony 8,ACTIVE
+92,Kids Room 8,Projects filed under kids room 8,ACTIVE
+93,Home Office 8,Projects filed under home office 8,ACTIVE
+94,Walk-in Closet 8,Projects filed under walk-in closet 8,ACTIVE
+95,Entrance 8,Projects filed under entrance 8,ACTIVE
+96,Patio 8,Projects filed under patio 8,ACTIVE
+97,Kitchen 9,Projects filed under kitchen 9,ACTIVE
+98,Living Room 9,Projects filed under living room 9,ACTIVE
+99,Bedroom 9,Projects filed under bedroom 9,ACTIVE
+100,Bathroom 9,Projects filed under bathroom 9,ACTIVE

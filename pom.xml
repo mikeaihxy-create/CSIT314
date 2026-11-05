@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Optional Maven build for the Interior Design Platform.
+
+    The project is built in this repository with plain javac (see README.md), because the
+    assignment only requires the code to compile and the tests to run. This file is provided so
+    that the same sources also work in an IDE or in a CI pipeline with a single command:
+
+        mvn test
+-->
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>idp</groupId>
+    <artifactId>interior-design-platform</artifactId>
+    <version>1.0.0</version>
+    <packaging>jar</packaging>
+
+    <name>Interior Design Platform</name>
+    <description>
+        CSIT314 group project: online platform that matches renovation customers with interior
+        designers, built with the boundary-control-entity framework and developed test first.
+    </description>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.release>17</maven.compiler.release>
+        <junit.version>4.13.2</junit.version>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>${junit.version}</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.13.0</version>
+                <configuration>
+                    <release>17</release>
+                    <encoding>UTF-8</encoding>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>3.2.5</version>
+                <configuration>
+                    <includes>
+                        <include>**/AllTests.java</include>
+                        <include>**/TestDataLoaderTest.java</include>
+                    </includes>
+                    <systemPropertyVariables>
+                        <idp.testdata>${project.basedir}/testdata</idp.testdata>
+                    </systemPropertyVariables>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>

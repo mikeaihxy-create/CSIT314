@@ -1,0 +1,101 @@
+company_id,owner_account_id,name,description,location,contact_email,phone,logo_url,status
+1,101,Studio 001,Interior design studio specialised in modern rooms,Singapore,studio001@idp.test,+65 6000 0000,https://cdn.idp.test/logo/001.png,ACTIVE
+2,102,Studio 002,Interior design studio specialised in minimalist rooms,Jurong,studio002@idp.test,+65 6001 0011,https://cdn.idp.test/logo/002.png,ACTIVE
+3,103,Studio 003,Interior design studio specialised in scandinavian rooms,Tampines,studio003@idp.test,+65 6002 0022,https://cdn.idp.test/logo/003.png,ACTIVE
+4,104,Studio 004,Interior design studio specialised in industrial rooms,Woodlands,studio004@idp.test,+65 6003 0033,https://cdn.idp.test/logo/004.png,ACTIVE
+5,105,Studio 005,Interior design studio specialised in japanese rooms,Bedok,studio005@idp.test,+65 6004 0044,https://cdn.idp.test/logo/005.png,ACTIVE
+6,106,Studio 006,Interior design studio specialised in contemporary rooms,Punggol,studio006@idp.test,+65 6005 0055,https://cdn.idp.test/logo/006.png,ACTIVE
+7,107,Studio 007,Interior design studio specialised in classic rooms,Sengkang,studio007@idp.test,+65 6006 0066,https://cdn.idp.test/logo/007.png,ACTIVE
+8,108,Studio 008,Interior design studio specialised in bohemian rooms,Yishun,studio008@idp.test,+65 6007 0077,https://cdn.idp.test/logo/008.png,ACTIVE
+9,109,Studio 009,Interior design studio specialised in rustic rooms,Singapore,studio009@idp.test,+65 6008 0088,https://cdn.idp.test/logo/009.png,ACTIVE
+10,110,Studio 010,Interior design studio specialised in art deco rooms,Jurong,studio010@idp.test,+65 6009 0099,https://cdn.idp.test/logo/010.png,ACTIVE
+11,111,Studio 011,Interior design studio specialised in modern rooms,Tampines,studio011@idp.test,+65 6010 0110,https://cdn.idp.test/logo/011.png,ACTIVE
+12,112,Studio 012,Interior design studio specialised in minimalist rooms,Woodlands,studio012@idp.test,+65 6011 0121,https://cdn.idp.test/logo/012.png,ACTIVE
+13,113,Studio 013,Interior design studio specialised in scandinavian rooms,Bedok,studio013@idp.test,+65 6012 0132,https://cdn.idp.test/logo/013.png,ACTIVE
+14,114,Studio 014,Interior design studio specialised in industrial rooms,Punggol,studio014@idp.test,+65 6013 0143,https://cdn.idp.test/logo/014.png,ACTIVE
+15,115,Studio 015,Interior design studio specialised in japanese rooms,Sengkang,studio015@idp.test,+65 6014 0154,https://cdn.idp.test/logo/015.png,ACTIVE
+16,116,Studio 016,Interior design studio specialised in contemporary rooms,Yishun,studio016@idp.test,+65 6015 0165,https://cdn.idp.test/logo/016.png,ACTIVE
+17,117,Studio 017,Interior design studio specialised in classic rooms,Singapore,studio017@idp.test,+65 6016 0176,https://cdn.idp.test/logo/017.png,ACTIVE
+18,118,Studio 018,Interior design studio specialised in bohemian rooms,Jurong,studio018@idp.test,+65 6017 0187,https://cdn.idp.test/logo/018.png,ACTIVE
+19,119,Studio 019,Interior design studio specialised in rustic rooms,Tampines,studio019@idp.test,+65 6018 0198,https://cdn.idp.test/logo/019.png,ACTIVE
+20,120,Studio 020,Interior design studio specialised in art deco rooms,Woodlands,studio020@idp.test,+65 6019 0209,https://cdn.idp.test/logo/020.png,ACTIVE
+21,121,Studio 021,Interior design studio specialised in modern rooms,Bedok,studio021@idp.test,+65 6020 0220,https://cdn.idp.test/logo/021.png,ACTIVE
+22,122,Studio 022,Interior design studio specialised in minimalist rooms,Punggol,studio022@idp.test,+65 6021 0231,https://cdn.idp.test/logo/022.png,ACTIVE
+23,123,Studio 023,Interior design studio specialised in scandinavian rooms,Sengkang,studio023@idp.test,+65 6022 0242,https://cdn.idp.test/logo/023.png,ACTIVE
+24,124,Studio 024,Interior design studio specialised in industrial rooms,Yishun,studio024@idp.test,+65 6023 0253,https://cdn.idp.test/logo/024.png,ACTIVE
+25,125,Studio 025,Interior design studio specialised in japanese rooms,Singapore,studio025@idp.test,+65 6024 0264,https://cdn.idp.test/logo/025.png,ACTIVE
+26,126,Studio 026,Interior design studio specialised in contemporary rooms,Jurong,studio026@idp.test,+65 6025 0275,https://cdn.idp.test/logo/026.png,ACTIVE
+27,127,Studio 027,Interior design studio specialised in classic rooms,Tampines,studio027@idp.test,+65 6026 0286,https://cdn.idp.test/logo/027.png,ACTIVE
+28,128,Studio 028,Interior design studio specialised in bohemian rooms,Woodlands,studio028@idp.test,+65 6027 0297,https://cdn.idp.test/logo/028.png,ACTIVE
+29,129,Studio 029,Interior design studio specialised in rustic rooms,Bedok,studio029@idp.test,+65 6028 0308,https://cdn.idp.test/logo/029.png,ACTIVE
+30,130,Studio 030,Interior design studio specialised in art deco rooms,Punggol,studio030@idp.test,+65 6029 0319,https://cdn.idp.test/logo/030.png,ACTIVE
+31,131,Studio 031,Interior design studio specialised in modern rooms,Sengkang,studio031@idp.test,+65 6030 0330,https://cdn.idp.test/logo/031.png,ACTIVE
+32,132,Studio 032,Interior design studio specialised in minimalist rooms,Yishun,studio032@idp.test,+65 6031 0341,https://cdn.idp.test/logo/032.png,ACTIVE
+33,133,Studio 033,Interior design studio specialised in scandinavian rooms,Singapore,studio033@idp.test,+65 6032 0352,https://cdn.idp.test/logo/033.png,ACTIVE
+34,134,Studio 034,Interior design studio specialised in industrial rooms,Jurong,studio034@idp.test,+65 6033 0363,https://cdn.idp.test/logo/034.png,ACTIVE
+35,135,Studio 035,Interior design studio specialised in japanese rooms,Tampines,studio035@idp.test,+65 6034 0374,https://cdn.idp.test/logo/035.png,ACTIVE
+36,136,Studio 036,Interior design studio specialised in contemporary rooms,Woodlands,studio036@idp.test,+65 6035 0385,https://cdn.idp.test/logo/036.png,ACTIVE
+37,137,Studio 037,Interior design studio specialised in classic rooms,Bedok,studio037@idp.test,+65 6036 0396,https://cdn.idp.test/logo/037.png,ACTIVE
+38,138,Studio 038,Interior design studio specialised in bohemian rooms,Punggol,studio038@idp.test,+65 6037 0407,https://cdn.idp.test/logo/038.png,ACTIVE
+39,139,Studio 039,Interior design studio specialised in rustic rooms,Sengkang,studio039@idp.test,+65 6038 0418,https://cdn.idp.test/logo/039.png,ACTIVE
+40,140,Studio 040,Interior design studio specialised in art deco rooms,Yishun,studio040@idp.test,+65 6039 0429,https://cdn.idp.test/logo/040.png,INACTIVE
+41,141,Studio 041,Interior design studio specialised in modern rooms,Singapore,studio041@idp.test,+65 6040 0440,https://cdn.idp.test/logo/041.png,ACTIVE
+42,142,Studio 042,Interior design studio specialised in minimalist rooms,Jurong,studio042@idp.test,+65 6041 0451,https://cdn.idp.test/logo/042.png,ACTIVE
+43,143,Studio 043,Interior design studio specialised in scandinavian rooms,Tampines,studio043@idp.test,+65 6042 0462,https://cdn.idp.test/logo/043.png,ACTIVE
+44,144,Studio 044,Interior design studio specialised in industrial rooms,Woodlands,studio044@idp.test,+65 6043 0473,https://cdn.idp.test/logo/044.png,ACTIVE
+45,145,Studio 045,Interior design studio specialised in japanese rooms,Bedok,studio045@idp.test,+65 6044 0484,https://cdn.idp.test/logo/045.png,ACTIVE
+46,146,Studio 046,Interior design studio specialised in contemporary rooms,Punggol,studio046@idp.test,+65 6045 0495,https://cdn.idp.test/logo/046.png,ACTIVE
+47,147,Studio 047,Interior design studio specialised in classic rooms,Sengkang,studio047@idp.test,+65 6046 0506,https://cdn.idp.test/logo/047.png,ACTIVE
+48,148,Studio 048,Interior design studio specialised in bohemian rooms,Yishun,studio048@idp.test,+65 6047 0517,https://cdn.idp.test/logo/048.png,ACTIVE
+49,149,Studio 049,Interior design studio specialised in rustic rooms,Singapore,studio049@idp.test,+65 6048 0528,https://cdn.idp.test/logo/049.png,ACTIVE
+50,150,Studio 050,Interior design studio specialised in art deco rooms,Jurong,studio050@idp.test,+65 6049 0539,https://cdn.idp.test/logo/050.png,ACTIVE
+51,151,Studio 051,Interior design studio specialised in modern rooms,Tampines,studio051@idp.test,+65 6050 0550,https://cdn.idp.test/logo/051.png,ACTIVE
+52,152,Studio 052,Interior design studio specialised in minimalist rooms,Woodlands,studio052@idp.test,+65 6051 0561,https://cdn.idp.test/logo/052.png,ACTIVE
+53,153,Studio 053,Interior design studio specialised in scandinavian rooms,Bedok,studio053@idp.test,+65 6052 0572,https://cdn.idp.test/logo/053.png,ACTIVE
+54,154,Studio 054,Interior design studio specialised in industrial rooms,Punggol,studio054@idp.test,+65 6053 0583,https://cdn.idp.test/logo/054.png,ACTIVE
+55,155,Studio 055,Interior design studio specialised in japanese rooms,Sengkang,studio055@idp.test,+65 6054 0594,https://cdn.idp.test/logo/055.png,ACTIVE
+56,156,Studio 056,Interior design studio specialised in contemporary rooms,Yishun,studio056@idp.test,+65 6055 0605,https://cdn.idp.test/logo/056.png,ACTIVE
+57,157,Studio 057,Interior design studio specialised in classic rooms,Singapore,studio057@idp.test,+65 6056 0616,https://cdn.idp.test/logo/057.png,ACTIVE
+58,158,Studio 058,Interior design studio specialised in bohemian rooms,Jurong,studio058@idp.test,+65 6057 0627,https://cdn.idp.test/logo/058.png,ACTIVE
+59,159,Studio 059,Interior design studio specialised in rustic rooms,Tampines,studio059@idp.test,+65 6058 0638,https://cdn.idp.test/logo/059.png,ACTIVE
+60,160,Studio 060,Interior design studio specialised in art deco rooms,Woodlands,studio060@idp.test,+65 6059 0649,https://cdn.idp.test/logo/060.png,ACTIVE
+61,161,Studio 061,Interior design studio specialised in modern rooms,Bedok,studio061@idp.test,+65 6060 0660,https://cdn.idp.test/logo/061.png,ACTIVE
+62,162,Studio 062,Interior design studio specialised in minimalist rooms,Punggol,studio062@idp.test,+65 6061 0671,https://cdn.idp.test/logo/062.png,ACTIVE
+63,163,Studio 063,Interior design studio specialised in scandinavian rooms,Sengkang,studio063@idp.test,+65 6062 0682,https://cdn.idp.test/logo/063.png,ACTIVE
+64,164,Studio 064,Interior design studio specialised in industrial rooms,Yishun,studio064@idp.test,+65 6063 0693,https://cdn.idp.test/logo/064.png,ACTIVE
+65,165,Studio 065,Interior design studio specialised in japanese rooms,Singapore,studio065@idp.test,+65 6064 0704,https://cdn.idp.test/logo/065.png,ACTIVE
+66,166,Studio 066,Interior design studio specialised in contemporary rooms,Jurong,studio066@idp.test,+65 6065 0715,https://cdn.idp.test/logo/066.png,ACTIVE
+67,167,Studio 067,Interior design studio specialised in classic rooms,Tampines,studio067@idp.test,+65 6066 0726,https://cdn.idp.test/logo/067.png,ACTIVE
+68,168,Studio 068,Interior design studio specialised in bohemian rooms,Woodlands,studio068@idp.test,+65 6067 0737,https://cdn.idp.test/logo/068.png,ACTIVE
+69,169,Studio 069,Interior design studio specialised in rustic rooms,Bedok,studio069@idp.test,+65 6068 0748,https://cdn.idp.test/logo/069.png,ACTIVE
+70,170,Studio 070,Interior design studio specialised in art deco rooms,Punggol,studio070@idp.test,+65 6069 0759,https://cdn.idp.test/logo/070.png,ACTIVE
+71,171,Studio 071,Interior design studio specialised in modern rooms,Sengkang,studio071@idp.test,+65 6070 0770,https://cdn.idp.test/logo/071.png,ACTIVE
+72,172,Studio 072,Interior design studio specialised in minimalist rooms,Yishun,studio072@idp.test,+65 6071 0781,https://cdn.idp.test/logo/072.png,ACTIVE
+73,173,Studio 073,Interior design studio specialised in scandinavian rooms,Singapore,studio073@idp.test,+65 6072 0792,https://cdn.idp.test/logo/073.png,ACTIVE
+74,174,Studio 074,Interior design studio specialised in industrial rooms,Jurong,studio074@idp.test,+65 6073 0803,https://cdn.idp.test/logo/074.png,ACTIVE
+75,175,Studio 075,Interior design studio specialised in japanese rooms,Tampines,studio075@idp.test,+65 6074 0814,https://cdn.idp.test/logo/075.png,ACTIVE
+76,176,Studio 076,Interior design studio specialised in contemporary rooms,Woodlands,studio076@idp.test,+65 6075 0825,https://cdn.idp.test/logo/076.png,ACTIVE
+77,177,Studio 077,Interior design studio specialised in classic rooms,Bedok,studio077@idp.test,+65 6076 0836,https://cdn.idp.test/logo/077.png,ACTIVE
+78,178,Studio 078,Interior design studio specialised in bohemian rooms,Punggol,studio078@idp.test,+65 6077 0847,https://cdn.idp.test/logo/078.png,ACTIVE
+79,179,Studio 079,Interior design studio specialised in rustic rooms,Sengkang,studio079@idp.test,+65 6078 0858,https://cdn.idp.test/logo/079.png,ACTIVE
+80,180,Studio 080,Interior design studio specialised in art deco rooms,Yishun,studio080@idp.test,+65 6079 0869,https://cdn.idp.test/logo/080.png,INACTIVE
+81,181,Studio 081,Interior design studio specialised in modern rooms,Singapore,studio081@idp.test,+65 6080 0880,https://cdn.idp.test/logo/081.png,ACTIVE
+82,182,Studio 082,Interior design studio specialised in minimalist rooms,Jurong,studio082@idp.test,+65 6081 0891,https://cdn.idp.test/logo/082.png,ACTIVE
+83,183,Studio 083,Interior design studio specialised in scandinavian rooms,Tampines,studio083@idp.test,+65 6082 0902,https://cdn.idp.test/logo/083.png,ACTIVE
+84,184,Studio 084,Interior design studio specialised in industrial rooms,Woodlands,studio084@idp.test,+65 6083 0913,https://cdn.idp.test/logo/084.png,ACTIVE
+85,185,Studio 085,Interior design studio specialised in japanese rooms,Bedok,studio085@idp.test,+65 6084 0924,https://cdn.idp.test/logo/085.png,ACTIVE
+86,186,Studio 086,Interior design studio specialised in contemporary rooms,Punggol,studio086@idp.test,+65 6085 0935,https://cdn.idp.test/logo/086.png,ACTIVE
+87,187,Studio 087,Interior design studio specialised in classic rooms,Sengkang,studio087@idp.test,+65 6086 0946,https://cdn.idp.test/logo/087.png,ACTIVE
+88,188,Studio 088,Interior design studio specialised in bohemian rooms,Yishun,studio088@idp.test,+65 6087 0957,https://cdn.idp.test/logo/088.png,ACTIVE
+89,189,Studio 089,Interior design studio specialised in rustic rooms,Singapore,studio089@idp.test,+65 6088 0968,https://cdn.idp.test/logo/089.png,ACTIVE
+90,190,Studio 090,Interior design studio specialised in art deco rooms,Jurong,studio090@idp.test,+65 6089 0979,https://cdn.idp.test/logo/090.png,ACTIVE
+91,191,Studio 091,Interior design studio specialised in modern rooms,Tampines,studio091@idp.test,+65 6090 0990,https://cdn.idp.test/logo/091.png,ACTIVE
+92,192,Studio 092,Interior design studio specialised in minimalist rooms,Woodlands,studio092@idp.test,+65 6091 1001,https://cdn.idp.test/logo/092.png,ACTIVE
+93,193,Studio 093,Interior design studio specialised in scandinavian rooms,Bedok,studio093@idp.test,+65 6092 1012,https://cdn.idp.test/logo/093.png,ACTIVE
+94,194,Studio 094,Interior design studio specialised in industrial rooms,Punggol,studio094@idp.test,+65 6093 1023,https://cdn.idp.test/logo/094.png,ACTIVE
+95,195,Studio 095,Interior design studio specialised in japanese rooms,Sengkang,studio095@idp.test,+65 6094 1034,https://cdn.idp.test/logo/095.png,ACTIVE
+96,196,Studio 096,Interior design studio specialised in contemporary rooms,Yishun,studio096@idp.test,+65 6095 1045,https://cdn.idp.test/logo/096.png,ACTIVE
+97,197,Studio 097,Interior design studio specialised in classic rooms,Singapore,studio097@idp.test,+65 6096 1056,https://cdn.idp.test/logo/097.png,ACTIVE
+98,198,Studio 098,Interior design studio specialised in bohemian rooms,Jurong,studio098@idp.test,+65 6097 1067,https://cdn.idp.test/logo/098.png,ACTIVE
+99,199,Studio 099,Interior design studio specialised in rustic rooms,Tampines,studio099@idp.test,+65 6098 1078,https://cdn.idp.test/logo/099.png,ACTIVE
+100,200,Studio 100,Interior design studio specialised in art deco rooms,Woodlands,studio100@idp.test,+65 6099 1089,https://cdn.idp.test/logo/100.png,ACTIVE
