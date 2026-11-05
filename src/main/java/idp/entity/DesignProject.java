@@ -205,7 +205,11 @@ public class DesignProject implements Identifiable {
         if (detail.budget() == null || detail.budget().signum() < 0) {
             return false;
         }
-        return targetStage != ProjectStage.PAST || detail.completionDate() != null;
+        if (targetStage != ProjectStage.PAST) {
+            return true;
+        }
+        return detail.completionDate() != null
+                && !detail.completionDate().isAfter(Clock.today());
     }
 
     private boolean categoryExists(long categoryID) {
